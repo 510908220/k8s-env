@@ -13,3 +13,16 @@
 | node01     |                  | 192.168.56.102 |          |
 | node02     |                  | 192.168.56.103 |          |
 
+
+
+
+
+ ## 参考
+
+
+
+https://blog.51cto.com/3241766/2405624
+
+https://segmentfault.com/a/1190000018905869
+
+https://kubernetes.io/zh/docs/setup/independent/install-kubeadm/
